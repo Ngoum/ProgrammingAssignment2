@@ -1,6 +1,7 @@
 ## Pair of R functions "makeCacheMatrix" and "cacheSolve" to compute and
 ## cache the value of the inverse of an invertible matrix
 
+
 ## makeCacheMatrix creates a special "matrix" object
 ## that can cache its inverse
 ##  - set: sets the value of the matrix
